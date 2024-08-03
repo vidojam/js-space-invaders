@@ -5,29 +5,3 @@
     display: flex;
     flex-wrap: wrap;
 }
-
-.grid div {
-    width: 20px;
-    height: 20px;
-    border: solid 2px red;
-    display: inline-block;
-    box-sizing: border-box;
-}
-
-.invader {
-    background-color: purple;
-    border-radius: 10px;   
-}
-
-.shooter {
-    background-color: green;
-    
-}   
-
-.laser {
-    background-color: orange;
-}
-
-.boom {
-    background-color: red;
-}
